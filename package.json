@@ -1,7 +1,7 @@
 {
-  "name": "queen_anju",
+  "name": "MR_SDK",
   "version": "5.0.0",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By MRSDK",
   "main": "start.js",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name Queen_Anju",
