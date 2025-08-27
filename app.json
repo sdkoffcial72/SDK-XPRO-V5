@@ -13,7 +13,7 @@
     "BOT_NUMBER": {
       "description": "The bot's phone number(Web accout created)",
       "required": true,
-      "value": "9478556644"
+      "value": "94704968008"
     },
     "PASSWORD": {
       "description": "Password for the bot (if any)",
@@ -23,7 +23,7 @@
     "SUDO": {
       "description": "Comma-separated list of sudo numbers",
       "required": true,
-      "value": "94717775628,94758775628"
+      "value": "94704968008,94740031178"
     },
     "PORT": {
       "description": "Port to run the bot on",
